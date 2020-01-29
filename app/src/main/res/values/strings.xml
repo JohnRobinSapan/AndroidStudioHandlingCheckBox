@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HandlingCheckBox</string>
+    <string name="checkBox_Title">I agree with the terms and conditions</string>
+</resources>
